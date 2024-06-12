@@ -9,7 +9,7 @@ def mul(a, b):
 
 
 
-#Hi iam Raja working on div-method branch on this project
+#Hi iam Raja working on div-method branch on this project edited 2nd time
 def div(a, b):
     if b != 0:
         return a / b
